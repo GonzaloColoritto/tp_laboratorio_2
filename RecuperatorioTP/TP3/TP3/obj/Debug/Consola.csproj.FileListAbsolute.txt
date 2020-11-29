@@ -1,7 +1,0 @@
-C:\Users\Gonza\source\repos\Coloritto.Gonzalo.2D.TP3\TP3\bin\Debug\TP3.exe.config
-C:\Users\Gonza\source\repos\Coloritto.Gonzalo.2D.TP3\TP3\bin\Debug\TP3.exe
-C:\Users\Gonza\source\repos\Coloritto.Gonzalo.2D.TP3\TP3\bin\Debug\TP3.pdb
-C:\Users\Gonza\source\repos\Coloritto.Gonzalo.2D.TP3\TP3\obj\Debug\Consola.csprojAssemblyReference.cache
-C:\Users\Gonza\source\repos\Coloritto.Gonzalo.2D.TP3\TP3\obj\Debug\Consola.csproj.CoreCompileInputs.cache
-C:\Users\Gonza\source\repos\Coloritto.Gonzalo.2D.TP3\TP3\obj\Debug\TP3.exe
-C:\Users\Gonza\source\repos\Coloritto.Gonzalo.2D.TP3\TP3\obj\Debug\TP3.pdb
