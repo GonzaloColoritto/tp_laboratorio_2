@@ -1,0 +1,2 @@
+C:\Users\Gonza\source\repos\TP4\Coloritto.Gonzalo.2D.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Gonza\source\repos\TP4\Coloritto.Gonzalo.2D.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache

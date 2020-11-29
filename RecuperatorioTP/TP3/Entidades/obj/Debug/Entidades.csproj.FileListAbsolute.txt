@@ -1,0 +1,6 @@
+C:\Users\Gonza\source\repos\Coloritto.Gonzalo.2D.TP3\Entidades\bin\Debug\Entidades.dll
+C:\Users\Gonza\source\repos\Coloritto.Gonzalo.2D.TP3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Gonza\source\repos\Coloritto.Gonzalo.2D.TP3\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Gonza\source\repos\Coloritto.Gonzalo.2D.TP3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\source\repos\Coloritto.Gonzalo.2D.TP3\Entidades\obj\Debug\Entidades.dll
+C:\Users\Gonza\source\repos\Coloritto.Gonzalo.2D.TP3\Entidades\obj\Debug\Entidades.pdb

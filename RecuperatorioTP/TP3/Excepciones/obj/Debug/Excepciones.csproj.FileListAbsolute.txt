@@ -1,0 +1,6 @@
+C:\Users\Gonza\source\repos\Gonzalo.Coloritto.2d.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Gonza\source\repos\Gonzalo.Coloritto.2d.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Gonza\source\repos\Gonzalo.Coloritto.2d.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Gonza\source\repos\Gonzalo.Coloritto.2d.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Gonza\source\repos\Gonzalo.Coloritto.2d.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Gonza\source\repos\Gonzalo.Coloritto.2d.TP3\Excepciones\obj\Debug\Excepciones.pdb
